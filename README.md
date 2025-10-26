@@ -27,7 +27,6 @@ Welcome to my GitHub profile! I'm a passionate backend developer who loves build
 
 🏢 **Current Projects:**
 - **Distributor Web Application** - Managing complex distribution workflows
-- **Church Management System** - Community-focused web application
 - **Logistics Platform** - Building scalable logistics solutions
 
 🎯 **Current Focus:**
