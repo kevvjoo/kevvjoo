@@ -13,7 +13,6 @@ Welcome to my GitHub profile! I'm a passionate backend developer who loves build
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### Tools & Technologies
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -39,7 +38,6 @@ Welcome to my GitHub profile! I'm a passionate backend developer who loves build
 ## 🌱 Currently Learning
 
 - **CI/CD Implementation** - Streamlining deployment processes
-- **Redis** - Advanced caching strategies
 - **PostgreSQL** - Expanding database expertise
 - **System Architecture** - Building scalable SaaS solutions
 
