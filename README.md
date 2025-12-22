@@ -53,7 +53,7 @@ Welcome to my GitHub profile! I'm a passionate backend developer who loves build
 
 ![kevvjoo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kevvjoo&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=kevvjoo)
+[![GitHub Streak](https://streak-stats.demolab.com?user=kevvjoo&theme=dark&locale=id)](https://git.io/streak-stats)
 </div>
 
 ---
