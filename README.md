@@ -17,8 +17,10 @@ Welcome to my GitHub profile! I'm a passionate backend developer who loves build
 ### Tools & Technologies
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ---
 
@@ -47,9 +49,21 @@ Welcome to my GitHub profile! I'm a passionate backend developer who loves build
 
 <div align="center">
 
+![kevvjoo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kevvjoo&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
 ![kevvjoo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kevvjoo&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-[![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=kevvjoo)](https://git.io/streak-stats)
+[![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=kevvjoo&theme=vue-dark)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kevvjoo&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
